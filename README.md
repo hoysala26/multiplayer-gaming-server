@@ -1,4 +1,4 @@
-# Multiplayer Server
+# Multiplayer Gaming Server
 
 A robust Java-based gaming platform that connects clients to a central server for real-time multiplayer and solo arcade experiences. This project uses Java Swing for the graphical interface and Java Sockets (TCP/IP) for networking.
 
